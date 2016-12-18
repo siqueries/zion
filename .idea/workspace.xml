@@ -26,8 +26,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ChurnLib.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/siqueries/zion/churn/ChurnLib.scala">
+      <file leaf-file-name="Churn.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/siqueries/zion/churn/Churn.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.09392265">
               <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
@@ -56,6 +56,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/siqueries/zion/algorithms/LinearRegressionSGDAlgorithm.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/siqueries/zion/algorithms/GradientBoostingTreeAlgorithm.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/siqueries/zion/data/LoadData.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/siqueries/zion/churn/Churn.scala" />
       </list>
     </option>
   </component>
@@ -576,12 +577,12 @@
       <created>1482027743299</created>
       <option name="number" value="Default" />
       <updated>1482027743299</updated>
-      <workItem from="1482027747660" duration="2455000" />
+      <workItem from="1482027747660" duration="2485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2455000" />
+    <option name="totallyTimeSpent" value="2485000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1002" extended-state="6" />
@@ -765,7 +766,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/siqueries/zion/churn/ChurnLib.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/siqueries/zion/churn/Churn.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.09392265">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
